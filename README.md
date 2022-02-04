@@ -2,7 +2,7 @@
 
 ## Description
 
-I was tasked with making 
+I was tasked with making the back-end of an e-commerce shop.
 
 ## Table of Contents
 
@@ -21,19 +21,10 @@ I was tasked with making
     2. Clone the repository by going to the green code button
     3. Open up GitBash (Windows) or Terminal (MacOs) and write down git clone (SSH key link from the green code button)
     4. Once cloned go to wherever your cloned files are set up
-    5. Open the file with your IDE of choice and start coding or if you want to try it within your local system ensure that you have node installed (you can do this by typing in the console node --v), move to the develop folder, install the required files by doing npm i, and then doing node index.js
+    5. Open the file with your IDE of choice and start coding or if you want to try it within your local system ensure that you have node installed (you can do this by typing in the console node --v), move to the develop folder, install the required files by doing npm i
 
 ## Usage
 
-
-
-* Images and video of the functionality of this script
-
-    ![A](Assets/q.PNG)
-
-    ![A ](Assets/r.PNG)
-
-    A link to a video showcasing the usage of the script: 
 
 ## Credits
 
